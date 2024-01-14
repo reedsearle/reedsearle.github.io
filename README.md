@@ -13,4 +13,8 @@ Two truths and one lie:
 
 ## CURRENT PROJECTS
 
+- Hello World: Jave Console Application
+
+- Hello World: Andriod App
+
 ## LINKS
