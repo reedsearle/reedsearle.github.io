@@ -13,7 +13,7 @@ Two truths and one lie:
 
 ## CURRENT PROJECTS
 
-- Hello World: Jave Console Application
+- [Hello World: Jave Console Application](https://github.com/ddc-java-17/hello-world-reedsearle)
 
 - Hello World: Andriod App
 
