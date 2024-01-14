@@ -18,3 +18,5 @@ Two truths and one lie:
 - Hello World: Andriod App
 
 ## LINKS
+
+- [LinkedIn](https://www.linkedin.com/in/reed-searle-78a0ab1/)
