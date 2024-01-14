@@ -20,3 +20,7 @@ Two truths and one lie:
 ## LINKS
 
 - [LinkedIn](https://www.linkedin.com/in/reed-searle-78a0ab1/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+> 
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
